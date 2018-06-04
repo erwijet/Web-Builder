@@ -1,0 +1,11 @@
+C:\Users\Tyler\Desktop\Projects\Web Bulder\Web Builder\Web Builder\bin\Release\Web Builder.exe
+C:\Users\Tyler\Desktop\Projects\Web Bulder\Web Builder\Web Builder\bin\Release\Web Builder.pdb
+C:\Users\Tyler\Desktop\Projects\Web Bulder\Web Builder\Web Builder\bin\Release\SyntaxHighlighter.dll
+C:\Users\Tyler\Desktop\Projects\Web Bulder\Web Builder\Web Builder\bin\Release\SyntaxHighlighter.pdb
+C:\Users\Tyler\Desktop\Projects\Web Bulder\Web Builder\Web Builder\obj\x86\Release\Web Builder.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\Projects\Web Bulder\Web Builder\Web Builder\obj\x86\Release\Web_Builder.Form1.resources
+C:\Users\Tyler\Desktop\Projects\Web Bulder\Web Builder\Web Builder\obj\x86\Release\Web_Builder.Properties.Resources.resources
+C:\Users\Tyler\Desktop\Projects\Web Bulder\Web Builder\Web Builder\obj\x86\Release\Web_Builder.Web_Builder.resources
+C:\Users\Tyler\Desktop\Projects\Web Bulder\Web Builder\Web Builder\obj\x86\Release\Web Builder.csproj.GenerateResource.Cache
+C:\Users\Tyler\Desktop\Projects\Web Bulder\Web Builder\Web Builder\obj\x86\Release\Web Builder.exe
+C:\Users\Tyler\Desktop\Projects\Web Bulder\Web Builder\Web Builder\obj\x86\Release\Web Builder.pdb
